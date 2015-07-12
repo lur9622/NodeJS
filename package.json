@@ -5,7 +5,6 @@
   "dependencies": {
   	"socket.io": "*",
   	"express": "*",
-  	"jade": "*",
         "ejs":"*"
   	  },
   "scripts": {
